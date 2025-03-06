@@ -7,19 +7,6 @@ Pro Weather is a modern weather web application built for learning and practicin
 
 ---
 
-## Table of Contents
-- [Overview](#overview-)
-- [Features](#features-)
-- [Tech Stack](#tech-stack-)
-- [Live Demo](#live-demo-)
-- [Installation](#installation-)
-- [Usage](#usage-)
-- [Contributing](#contributing-)
-- [License](#license-)
-- [Questions](#questions-)
-
----
-
 ## Overview 🚀
 
 Pro Weather is designed to help you explore and master essential web technologies such as **React**, **Redux**, and **Tailwind CSS**. The app fetches data from the **OpenWeather API** and provides users with real-time weather updates as well as a forecast for the upcoming 6 days.
@@ -71,7 +58,7 @@ Experience Pro Weather live: [Pro Weather Live](https://pro-weather-psi.vercel.a
 2. **Navigate into the project directory:**
    ```bash
    cd pro_weather
-   ```
+   ``` 
 3. **Install dependencies:**
    ```bash
    yarn install
